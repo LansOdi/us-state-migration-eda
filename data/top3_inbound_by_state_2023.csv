@@ -1,0 +1,154 @@
+Current_State,Previous_State,Movers_Estimate,Rank
+Alabama,Florida,17515.0,2
+Alabama,Georgia,19270.0,1
+Alabama,Tennessee,12640.0,3
+Alaska,California,4697.0,1
+Alaska,Oregon,3187.0,2
+Alaska,Washington,2283.0,3
+Arizona,California,54222.0,1
+Arizona,Texas,16779.0,2
+Arizona,Washington,12844.0,3
+Arkansas,California,6320.0,3
+Arkansas,Missouri,8714.0,2
+Arkansas,Texas,13652.0,1
+California,New York,35062.0,2
+California,Texas,38732.0,1
+California,Washington,32218.0,3
+Colorado,California,26148.0,2
+Colorado,Florida,12786.0,3
+Colorado,Texas,32150.0,1
+Connecticut,Florida,7435.0,3
+Connecticut,Massachusetts,13428.0,2
+Connecticut,New York,28181.0,1
+Delaware,Maryland,7829.0,2
+Delaware,New Jersey,4041.0,3
+Delaware,Pennsylvania,13350.0,1
+District of Columbia,Maryland,12647.0,1
+District of Columbia,New York,4766.0,3
+District of Columbia,Virginia,7085.0,2
+Florida,California,39052.0,3
+Florida,Georgia,44469.0,2
+Florida,New York,71138.0,1
+Georgia,Florida,55250.0,1
+Georgia,New York,21998.0,2
+Georgia,Texas,20923.0,3
+Hawaii,California,11200.0,1
+Hawaii,Texas,3742.0,3
+Hawaii,Washington,4092.0,2
+Idaho,California,17338.0,1
+Idaho,Oregon,7458.0,3
+Idaho,Washington,14655.0,2
+Illinois,California,16460.0,2
+Illinois,Florida,19100.0,1
+Illinois,Texas,15227.0,3
+Indiana,Florida,14798.0,2
+Indiana,Illinois,29426.0,1
+Indiana,Ohio,12493.0,3
+Iowa,Illinois,11780.0,1
+Iowa,Minnesota,4755.0,3
+Iowa,Nebraska,7341.0,2
+Kansas,Colorado,4591.0,3
+Kansas,Missouri,18573.0,1
+Kansas,Texas,7229.0,2
+Kentucky,Indiana,8310.0,3
+Kentucky,Ohio,13249.0,2
+Kentucky,Tennessee,14444.0,1
+Louisiana,Florida,4686.0,3
+Louisiana,Mississippi,7272.0,2
+Louisiana,Texas,18446.0,1
+Maine,Florida,4008.0,3
+Maine,Massachusetts,5670.0,2
+Maine,New Hampshire,5715.0,1
+Maryland,District of Columbia,20296.0,2
+Maryland,Pennsylvania,16851.0,3
+Maryland,Virginia,21670.0,1
+Massachusetts,California,12160.0,3
+Massachusetts,Florida,12758.0,2
+Massachusetts,New York,16247.0,1
+Michigan,Florida,14236.0,1
+Michigan,Illinois,11766.0,2
+Michigan,Indiana,11338.0,3
+Minnesota,Illinois,6089.0,2
+Minnesota,North Dakota,6062.0,3
+Minnesota,Wisconsin,15404.0,1
+Mississippi,Alabama,6151.0,3
+Mississippi,Tennessee,13818.0,1
+Mississippi,Texas,6880.0,2
+Missouri,Illinois,15326.0,2
+Missouri,Kansas,20692.0,1
+Missouri,Texas,9322.0,3
+Montana,California,5577.0,1
+Montana,Oregon,2713.0,3
+Montana,Washington,5214.0,2
+Nebraska,Colorado,5254.0,1
+Nebraska,Iowa,4860.0,2
+Nebraska,Virginia,2977.0,3
+Nevada,Arizona,7972.0,3
+Nevada,California,41997.0,1
+Nevada,Colorado,8064.0,2
+New Hampshire,Massachusetts,16362.0,1
+New Hampshire,Pennsylvania,1914.0,2
+New Hampshire,Vermont,1890.0,3
+New Jersey,Florida,9635.0,3
+New Jersey,New York,55926.0,1
+New Jersey,Pennsylvania,29564.0,2
+New Mexico,California,8126.0,2
+New Mexico,Colorado,5853.0,3
+New Mexico,Texas,16975.0,1
+New York,California,31097.0,2
+New York,New Jersey,40474.0,1
+New York,Pennsylvania,27603.0,3
+North Carolina,Florida,39931.0,1
+North Carolina,New York,29175.0,3
+North Carolina,South Carolina,31358.0,2
+North Dakota,Illinois,2370.0,2
+North Dakota,Minnesota,11738.0,1
+North Dakota,South Dakota,2238.0,3
+Ohio,Florida,18740.0,1
+Ohio,Michigan,15795.0,2
+Ohio,Pennsylvania,12809.0,3
+Oklahoma,California,10940.0,2
+Oklahoma,Colorado,6786.0,3
+Oklahoma,Texas,31506.0,1
+Oregon,Arizona,7144.0,3
+Oregon,California,33807.0,1
+Oregon,Washington,22169.0,2
+Pennsylvania,Maryland,20654.0,3
+Pennsylvania,New Jersey,41215.0,2
+Pennsylvania,New York,42637.0,1
+Rhode Island,Florida,3277.0,2
+Rhode Island,Massachusetts,9208.0,1
+Rhode Island,New York,2089.0,3
+South Carolina,Florida,16206.0,3
+South Carolina,Georgia,17378.0,2
+South Carolina,North Carolina,28109.0,1
+South Dakota,California,3368.0,3
+South Dakota,Minnesota,7142.0,1
+South Dakota,Nebraska,3622.0,2
+Tennessee,California,23961.0,1
+Tennessee,Florida,21195.0,2
+Tennessee,Texas,14618.0,3
+Texas,California,93970.0,1
+Texas,Florida,50513.0,2
+Texas,Oklahoma,29743.0,3
+Utah,California,15848.0,1
+Utah,Nevada,6808.0,3
+Utah,Texas,7276.0,2
+Vermont,Massachusetts,3965.0,1
+Vermont,New Hampshire,2781.0,3
+Vermont,New York,3279.0,2
+Virginia,Florida,24733.0,2
+Virginia,Maryland,28203.0,1
+Virginia,North Carolina,23197.0,3
+Washington,California,40858.0,1
+Washington,Oregon,29960.0,2
+Washington,Texas,13788.0,3
+West Virginia,Maryland,6587.0,2
+West Virginia,Ohio,7164.0,1
+West Virginia,Virginia,5498.0,3
+Wisconsin,Florida,8391.0,3
+Wisconsin,Illinois,26943.0,1
+Wisconsin,Minnesota,17067.0,2
+Wyoming,Colorado,4777.0,1
+Wyoming,Montana,1643.0,3
+Wyoming,Texas,1699.0,2
